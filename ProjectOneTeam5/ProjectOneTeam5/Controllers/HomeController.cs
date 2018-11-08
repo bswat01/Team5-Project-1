@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace ProjectOneTeam5.Controllers
 {
+    //Ben is the greatest show
     public class HomeController : Controller
     {
         // GET: Home
